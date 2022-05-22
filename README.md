@@ -1,6 +1,5 @@
-### Hi there 👋
-
-Jason Park
+### 
+Jason Park(≖ᴗ≖)
 <!--
 **jas1106/jas1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
