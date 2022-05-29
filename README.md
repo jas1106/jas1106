@@ -6,7 +6,7 @@ Jason Park(≖ᴗ≖)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jas1106.visitor-badge)
 
 <img height="180em" 
-src="https://github-readme-stats.vercel.app/apiusername=jas1106&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+src="https://github-readme-stats.vercel.app/api?username=jas1106&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!--
 **jas1106/jas1106** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
